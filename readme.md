@@ -27,4 +27,3 @@ Version : 1.0.1
 ## Acknowledgments
 
 The assembler was built as part of Computer Organisation course at IIIT Delhi
-
